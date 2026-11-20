@@ -1,7 +1,7 @@
 {
-  "name": "Consumo L/100km",
-  "short_name": "Consumo",
-  "description": "Registra tus repostajes y calcula el consumo de tu coche en litros por 100 km",
+  "name": "Consum L/100km",
+  "short_name": "Consum",
+  "description": "Registra els repostatges i calcula el consum del teu cotxe en litres per 100 km",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F1EFE8",
